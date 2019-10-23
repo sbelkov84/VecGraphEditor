@@ -1,0 +1,6 @@
+<map id="IPrimitive" name="IPrimitive">
+<area shape="rect" id="node2" href="$d1/da9/class_t_primitive_circle.html" title="Implementation of Circle graphic primitive. " alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node3" href="$df/d17/class_t_primitive_line.html" title="Implementation of Line graphic primitive. " alt="" coords="148,80,259,107"/>
+<area shape="rect" id="node4" href="$d4/dc0/class_t_primitive_multi_line.html" title="Implementation of MultiLine graphic primitive. " alt="" coords="283,80,423,107"/>
+<area shape="rect" id="node5" href="$d6/df3/class_t_primitive_point.html" title="Implementation of Point graphic primitive. " alt="" coords="447,80,563,107"/>
+</map>

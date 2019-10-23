@@ -1,0 +1,5 @@
+<map id="TPrimitiveCircle" name="TPrimitiveCircle">
+<area shape="rect" id="node2" href="$d2/d78/class_i_primitive.html" title="Interface parent class for all graphic primitives. " alt="" coords="25,184,105,211"/>
+<area shape="rect" id="node3" href="$d7/df6/struct_t_storage.html" title="Storage for graphic primitives is used in current variant. " alt="" coords="25,95,105,121"/>
+<area shape="rect" id="node4" href="$d2/def/class_t_screen.html" title="Just an &quot;imitation&quot; of canvas/screen on which we will draw. " alt="" coords="27,5,102,32"/>
+</map>
