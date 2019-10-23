@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.2)
 
 if (DEFINED ENV{TRAVIS_BUILD_NUMBER})
-    project(prj_ip_filter VERSION 0.0.$ENV{TRAVIS_BUILD_NUMBER})
+    project(VecGraphEditor VERSION 0.0.$ENV{TRAVIS_BUILD_NUMBER})
 else()
-    project(prj_ip_filter VERSION 0.0.1)
+    project(VecGraphEditor VERSION 0.0.1)
 endif()
 
 configure_file(version.h.in version.h)
