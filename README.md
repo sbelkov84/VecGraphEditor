@@ -1,2 +1,2 @@
 # VecGraphEditor project
-# Just a class hierarchy almost without any implementation
+# Just a class hierarchy almost without any implementation. 
